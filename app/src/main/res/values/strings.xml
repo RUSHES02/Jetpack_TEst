@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jetpack TEst</string>
+    <string name="card1_header">Text composable</string>
+    <string name="card1_des">Displays text and follows the recommended Material Design guidelines.</string>
+</resources>
